@@ -1,20 +1,20 @@
 [
   {
-    id: 1
-    name: "André",
-    details: "erreur 404 sur la page contact",
-    completed: false,
+    "id": 1
+    "name": "André",
+    "details": "erreur 404 sur la page contact",
+    "completed": false,
     },
     {
-    id: 2
-    name: "José",
-    details: "Mauvais numéro de téléphone affiché sur la page ",
-    completed: false,
+    "id": 2
+    "name": "José",
+    "details": "Mauvais numéro de téléphone affiché sur la page ",
+    "completed": false,
     },
     {
-    id: 3,
-    name: "André",
-    details: "quis ut nam facilis et officia qui",
-    completed: true,
+    "id": 3,
+    "name": "André",
+    "details": "quis ut nam facilis et officia qui",
+    "completed": true,
     }
 ]
